@@ -62,5 +62,5 @@ Library App is a simple, modular library management system built with .NET 8.0. 
 
 3. Follow the on-screen prompts to search for patrons, view details, manage loans, and update memberships.
 
-License
+## License
 This project is licensed under the MIT License. 
