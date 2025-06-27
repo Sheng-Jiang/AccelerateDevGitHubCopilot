@@ -55,5 +55,12 @@ Library App is a simple, modular library management system built with .NET 8.0. 
 ## Usage
 
 1. **Build the project:**
-   ```sh
    dotnet build AccelerateDevGitHubCopilot.sln
+
+2. Run the console application:
+   dotnet run --project src/Library.Console/Library.Console.csproj
+
+3. Follow the on-screen prompts to search for patrons, view details, manage loans, and update memberships.
+
+License
+This project is licensed under the MIT License. 
